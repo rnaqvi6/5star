@@ -1292,9 +1292,9 @@ Instead edit gulp/templates/sprite */
 
       .site-header--dark .site-header__logo {
 
-        -webkit-transform: scale(.6);
+        -webkit-transform: scale(.75);
 
-                transform: scale(.6);
+                transform: scale(.75);
 
       }
     }
